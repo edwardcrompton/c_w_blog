@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the C&W Blog feature.
+ */
+
+include_once('c_w_blog.features.inc');
